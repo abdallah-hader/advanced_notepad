@@ -1,0 +1,4 @@
+wxpython
+googletrans
+pyperclip
+requests
