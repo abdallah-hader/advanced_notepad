@@ -1,0 +1,958 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-08-18 07:52+0300\n"
+"PO-Revision-Date: 2022-08-18 08:16+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:57
+msgid "file"
+msgstr "ملف"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:58
+#: notepad\source\html_handler\html_handler.py:89
+msgid "edit"
+msgstr "تحرير"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:59
+msgid "tools"
+msgstr "الأدوات"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:60
+msgid "html"
+msgstr "html"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:61
+#: notepad\source\advanced_notepad.py:89
+msgid "about"
+msgstr "حول"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:63
+msgid "new: ctrl+n"
+msgstr "جديد: ctrl+n"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:64
+msgid "new window: ctrl+shift+n"
+msgstr "نافذة جديدة: ctrl+shift+n"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:65
+msgid "open file: ctrl+o"
+msgstr "فتح ملف: ctrl+o"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:66
+msgid "save: ctrl+s"
+msgstr "حفظ: ctrl+s"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:67
+msgid "save as: ctrl+shift+s"
+msgstr "حفظ كَ: ctrl+shift+s"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:68
+msgid "check for updates"
+msgstr "التحقق من وجود تحديثات"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:69
+msgid "settings: alt+s"
+msgstr "الإعدادات: alt+s"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:70
+msgid "exit"
+msgstr "خروج"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:72
+msgid "UnDo: ctrl+z"
+msgstr "إلغاء التعديل: ctrl+z"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:73
+msgid "cut: ctrl+x"
+msgstr "قص: ctrl+x"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:74
+msgid "copy: ctrl+c"
+msgstr "نسخ: ctrl+c"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:75
+msgid "paste: ctrl+v"
+msgstr "لصق: ctrl+v"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:76
+msgid "add copy: ctrl+d"
+msgstr "نسخ إضافي: control+d"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:77
+msgid "insert date and time: f5"
+msgstr "إدراج التاريخ والوقت: f5"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:78
+msgid "Find: ctrl+f"
+msgstr "بحث: ctrl+f"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:79
+msgid "replace text: ctrl+h"
+msgstr "استبدال النص: ctrl+h"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:80
+msgid "go to: ctrl+g"
+msgstr "الذهاب إلى: ctrl+g"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:82
+msgid "translate"
+msgstr "ترجمة"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:83
+msgid "extract"
+msgstr "استخراج"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:84
+msgid "links: ctrl+u"
+msgstr "الروابط: ctrl+u"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:85
+msgid "emails: ctrl+e"
+msgstr "البريد الالكتروني: ctrl+e"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:86
+msgid "translate the selected text: ctrl+t"
+msgstr "ترجمة النص المحدد: ctrl+t"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:87
+msgid "Translate the entire file: ctrl+shift+t"
+msgstr "ترجمة الملف بأكمله: ctrl+shift+t"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:90
+msgid "help file: f1"
+msgstr "ملف المساعدة: f1"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:91
+msgid "telegram channel"
+msgstr "قناة التلجرام"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:92
+msgid "contact us"
+msgstr "التواصل معنا"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:97
+msgid "create heading: alt+h"
+msgstr "إنشاء رأس موضوع: alt+h"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:98
+msgid "create URL: alt+u"
+msgstr "إنشاء رابط: alt+u"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:99
+msgid "create list: alt+l"
+msgstr "إنشاء قائمة: alt+l"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:100
+msgid "create paragraph: alt+p"
+msgstr "إنشاء فقرة: alt+p"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:127
+msgid "about the program"
+msgstr "حول البرنامج"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:132
+msgid "help"
+msgstr "المساعدة"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:174
+msgid "go to line"
+msgstr "الذهاب إلى سطر"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:174
+msgid "line number"
+msgstr "رقم السطر"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:182
+msgid ""
+"all files(*.*)|*.*|text documents(.txt)|*.txt|python scripts(.py)|*.py|html "
+"page(.html)|*.html"
+msgstr ""
+"كل الملفات(*.*)|*.*|مستندات نصية(.txt)|*.txt|ملفات python(.py)|*.py|صفحة "
+"html(.html)|*.html"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:182
+msgid "open file"
+msgstr "فتح ملف"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:193
+msgid "Save As"
+msgstr "حفظ كَ"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:193
+msgid ""
+"text documents(.txt)|*.txt|python scripts(.py)|*.py|html page(.html)|*.html"
+msgstr ""
+"مستندات نصية(.txt)|*.txt|ملفات python(.py)|*.py|صفحة html(.html)|*.html"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:196
+msgid "The file {f} already exists, do you want to replace it?"
+msgstr "الملف {f} موجود بالفعل , هل تريد استبداله?"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:196
+msgid "file exists"
+msgstr "الملف موجود"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:205
+msgid "File saved successfully"
+msgstr "تم حفظ الملف بنجاح"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:211
+msgid "Do you want to save changes to Untitled?"
+msgstr "هل تريد حفظ التغييرات إلى \"بدون عنوان\"؟"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:212
+#: notepad\source\advanced_notepad.py:309
+#: notepad\source\advanced_notepad.py:337
+msgid "&cancel"
+msgstr "إل&غاء"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:212
+#: notepad\source\advanced_notepad.py:309
+#: notepad\source\advanced_notepad.py:337
+msgid "&dont save"
+msgstr "&عدم الحفظ"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:212
+#: notepad\source\advanced_notepad.py:309
+#: notepad\source\advanced_notepad.py:337
+msgid "&save"
+msgstr "&حفظ"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:222
+#: notepad\source\advanced_notepad.py:237
+#: notepad\source\advanced_notepad.py:252
+#: notepad\source\advanced_notepad.py:270
+msgid "there is no tabs"
+msgstr "لا يوجد علامات تبويب"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:223
+msgid "the focus already on the first tab"
+msgstr "التركيز بالفعل على علامة التبويب الأولى"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:234
+#: notepad\source\advanced_notepad.py:249
+#: notepad\source\advanced_notepad.py:267
+#: notepad\source\advanced_notepad.py:286
+msgid "{fileName} {path} {firstNumber} of {secondNumber}"
+msgstr "{fileName} {path} {firstNumber} of {secondNumber}"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:238
+msgid "the focus already on the last tab"
+msgstr "التركيز بالفعل على علامة التبويب الأخيرة"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:289
+msgid "current active is unsaved tab"
+msgstr "النشط الحالي هو علامة تبويب غير محفوظة"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:297
+msgid "text restored"
+msgstr "تم إستعادة النص"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:301
+msgid "select a tab first"
+msgstr "قم بتحديد علامة تبويب أولًا"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:305
+#: notepad\source\advanced_notepad.py:314
+#: notepad\source\advanced_notepad.py:319
+#: notepad\source\advanced_notepad.py:332
+#: notepad\source\advanced_notepad.py:342
+#: notepad\source\advanced_notepad.py:347
+msgid "tab closed"
+msgstr "تم إغلاق علامة التبويب"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:308
+msgid ""
+"If you close the tab, you can't get it back, do you want to save to a file?"
+msgstr "إذا أغلقت علامة التبويب ، فلا يمكنك استعادتها ، هل تريد حفظها في ملف؟"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:336
+msgid ""
+"If you close the tab, you can't get it back, do you want to save changes?"
+msgstr "إذا أغلقت علامة التبويب لا يمكنك استعادتها، هل تريد حفظ التغييرات؟"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:373
+msgid "text info"
+msgstr "معلومات النص"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:384
+msgid ""
+"Cannot find the {f} file\n"
+" do you want to create it now?"
+msgstr ""
+"لم يتم العثور على الملف {f}\n"
+"هل تريد إنشائه الآن؟"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:384
+msgid "file not found"
+msgstr "لم يتم العثور على الملف"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:385
+#: notepad\source\gui\input_dialog.py:14
+#: notepad\source\gui\replace_dialog.py:16
+#: notepad\source\gui\search_dialog.py:12
+#: notepad\source\gui\settings_dialog.py:26
+#: notepad\source\gui\translate_dialog.py:20
+#: notepad\source\html_handler\html_handler.py:56
+#: notepad\source\html_handler\html_handler.py:116
+#: notepad\source\html_handler\html_handler.py:142
+#: notepad\source\html_handler\html_handler.py:178
+msgid "cancel"
+msgstr "إلغاء"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:385
+#: notepad\source\html_handler\html_handler.py:97
+msgid "no"
+msgstr "لا"
+
+#: D:\progects\advanced notepad\source\advanced_notepad.py:385
+#: notepad\source\html_handler\html_handler.py:97
+msgid "yes"
+msgstr "نعم"
+
+#: D:\progects\advanced notepad\source\application.py:3
+msgid "advanced notepad"
+msgstr "المفكرة المتقدمة"
+
+#: D:\progects\advanced notepad\source\application.py:5
+msgid "abdallah hayder"
+msgstr "عبد الله حيدر"
+
+#: D:\progects\advanced notepad\source\application.py:10
+msgid ""
+"name: {name}.\n"
+"version: {version}.\n"
+"author: {author}.\n"
+"description: A text editor designed for screen reader users.\n"
+"This editor makes it easy and smooth to control text files with the many "
+"features it offers.\n"
+"Such as the tabs system, save the edited text in the tab, and some ready-"
+"made HTML codes. and more."
+msgstr ""
+"الإسم: {name}.\n"
+"الإصدار: {version}.\n"
+"المطور: {author}.\n"
+"الوصف: محرر نصوص مصمم لمستخدمي قارئ الشاشة.\n"
+"يعمل هذا المحرر على تسهيل التحكم في الملفات النصية من خلال الميزات العديدة "
+"التي يوفرها.\n"
+"مثل نظام علامات التبويب ، حفظ النص المحرر في علامة التبويب وبعض أكواد HTML "
+"الجاهزة. والمزيد."
+
+#: D:\progects\advanced notepad\source\docs_handler.py:12
+msgid "An error occurred while trying to get the help file."
+msgstr "حدث خطأ أثناء محاولة الحصول على ملف المساعدة."
+
+#: D:\progects\advanced notepad\source\globals.py:22
+msgid "{fn} - {pn}"
+msgstr "{fn} - {pn}"
+
+#: D:\progects\advanced notepad\source\globals.py:46
+msgid "You must select text to copy."
+msgstr "يجب تحديد نص لنسخه."
+
+#: D:\progects\advanced notepad\source\globals.py:60
+#, fuzzy
+#| msgid "there is no text in the clipboard to add copy"
+msgid "There is no text in the clipboard to do add copy."
+msgstr "لا يوجد نص في الحافظة للنسخ الإضافي."
+
+#: D:\progects\advanced notepad\source\globals.py:65
+msgid "add copied."
+msgstr "تم النسخ الإضافي."
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:13
+msgid "no emails found"
+msgstr "لم يتم العثور على بريد الكتروني"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:13
+msgid "no links found"
+msgstr "لم يتم العثور على روابط"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:14
+msgid "emails extractor"
+msgstr "مستخرج البريد الالكتروني"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:14
+msgid "links extractor"
+msgstr "مستخرج الروابط"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:17
+msgid "extracted emails"
+msgstr "البريد الالكتروني المستخرج"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:17
+msgid "extracted links"
+msgstr "الروابط المُستخرَجة"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:21
+#: notepad\source\gui\extractor_dialog.py:53
+#: notepad\source\gui\text_viewer.py:13
+#: notepad\source\gui\translate_dialog.py:18
+msgid "copy to clipboard"
+msgstr "نسخ إلى الحافظة"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:22
+msgid "copy all to clipboard"
+msgstr "نسخ الكل إلى الحافظة"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:25
+#: notepad\source\gui\text_viewer.py:15
+msgid "close"
+msgstr "إغلاق"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:33
+msgid "opening in browser"
+msgstr "يتم الفتح بالمتصفح"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:41
+msgid "{t} copied to clipboard"
+msgstr "تم نسخ  {t} إلى الحافظة"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:41
+#: notepad\source\gui\extractor_dialog.py:48
+#: notepad\source\gui\text_viewer.py:20
+#: notepad\source\gui\translate_dialog.py:47 notepad\source\gui\updater.py:100
+#: notepad\source\scripts\backup.py:65 notepad\source\scripts\backup.py:77
+msgid "success"
+msgstr "نجاح"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:48
+msgid "successfully copied to clipboard"
+msgstr "تم النسخ إلى الحافظة بنجاح"
+
+#: D:\progects\advanced notepad\source\gui\extractor_dialog.py:52
+msgid "open in browser"
+msgstr "فتح في المتصفح"
+
+#: D:\progects\advanced notepad\source\gui\input_dialog.py:13
+#: notepad\source\gui\settings_dialog.py:23
+msgid "ok"
+msgstr "موافق"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:7
+#: notepad\source\gui\replace_dialog.py:14
+msgid "replace text"
+msgstr "استبدال النص"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:9
+msgid "The text to replace"
+msgstr "النص المُراد استبداله"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:11
+msgid "replace with"
+msgstr "استبدال بِ"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:13
+#: notepad\source\gui\search_dialog.py:10
+msgid "case sensitive letters"
+msgstr "مراعاة حالة الأحرف"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:15
+msgid "replace all"
+msgstr "استبدال الكل"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:26
+msgid "The text given to replace was not found."
+msgstr "لم يتم العثور على النص المعطى للاستبدال."
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:26
+msgid "text not found"
+msgstr "لم يتم العثور على النص"
+
+#: D:\progects\advanced notepad\source\gui\replace_dialog.py:30
+msgid "text replaced"
+msgstr "تم استبدال النص"
+
+#: D:\progects\advanced notepad\source\gui\search_dialog.py:6
+#: notepad\source\gui\search_dialog.py:11
+msgid "search"
+msgstr "بحث"
+
+#: D:\progects\advanced notepad\source\gui\search_dialog.py:8
+msgid "search for?"
+msgstr "البحث عن؟"
+
+#: D:\progects\advanced notepad\source\gui\search_dialog.py:25
+msgid "Found the next occurrence of text"
+msgstr "تم العثور على التكرار التالي للنص"
+
+#: D:\progects\advanced notepad\source\gui\search_dialog.py:27
+msgid "No search result was found in the text."
+msgstr "لم يتم العثور على نتيجة بحث في النص."
+
+#: D:\progects\advanced notepad\source\gui\search_dialog.py:27
+msgid "no result found"
+msgstr "لم يتم العثور على نتيجة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:12
+msgid "program settings"
+msgstr "إعدادات البرنامج"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:15
+msgid ""
+"sections list, choose what you want to modify its settings from the list "
+"below"
+msgstr "قائمة الأقسام ، اختر ما تريد تعديل إعداداته من القائمة أدناه"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:20
+msgid "general settings"
+msgstr "الاعدادات العامة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:21
+msgid "Selected text translation settings"
+msgstr "إعدادات ترجمة النص المحدد"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:22
+msgid "backup and restore"
+msgstr "النسخ الاحتياطي والإستعادة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:49
+msgid ""
+"You have changed the program language, and to apply this change you must "
+"restart the program, do you want to restart now?"
+msgstr ""
+"لقد قمت بتغيير لغة البرنامج ، ولتطبيق هذا التغيير يجب إعادة تشغيل البرنامج ، "
+"هل تريد إعادة التشغيل الآن؟"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:49
+msgid "language changed"
+msgstr "تم تغيير اللغة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:59
+msgid "Program language"
+msgstr "لغة البرنامج"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:61
+msgid "Autosave method"
+msgstr "طريقة الحفظ التلقائي"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:62
+msgid "When any letter is written"
+msgstr "عندما يتم كتابة أي حرف"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:62
+msgid "disable"
+msgstr "تعطيل"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:62
+msgid "when space key pressed"
+msgstr "عند الضغط على مفتاح المسافة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:63
+msgid "Separation mark between add copy"
+msgstr "علامة الفصل بين النسخ الإضافي."
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:64
+msgid "comma"
+msgstr "فاصلة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:64
+msgid "new line"
+msgstr "سطر جديد"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:64
+msgid "nothing"
+msgstr "لا شيء"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:64
+msgid "space"
+msgstr "مسافة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:65
+msgid "check for updates on startup"
+msgstr "التحقق من التحديثات عند البدء"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:66
+msgid "play sounds when navigate tabs"
+msgstr "تشغيل مؤثرات صوتية  عند التنقل بين علامات التبويب"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:80
+#: notepad\source\gui\translate_dialog.py:14
+msgid "translate from"
+msgstr "الترجمة مِن"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:82
+#: notepad\source\gui\translate_dialog.py:16
+msgid "translate to"
+msgstr "الترجمة إلى"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:84
+msgid "Get the result by"
+msgstr "الحصول على النتيجة بواسطة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:85
+msgid "copy to clipboard only"
+msgstr "نسخ إلى الحافظة فقط"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:85
+msgid "speech and copy to clipboard"
+msgstr "النطق ونسخ إلى الحافظة"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:85
+msgid "speech only"
+msgstr "النطق فقط"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:88
+#: notepad\source\gui\translate_dialog.py:24
+msgid "auto detect"
+msgstr "الإكتشاف التلقائي"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:98
+#: notepad\source\gui\translate_dialog.py:31
+msgid "An error occurred while trying to get the list of languages"
+msgstr "حدث خطأ أثناء محاولة الحصول على قائمة اللغات"
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:103
+msgid "create backup"
+msgstr "إنشاء نسخة إحتياطية."
+
+#: D:\progects\advanced notepad\source\gui\settings_dialog.py:104
+msgid "restore backup"
+msgstr "إستعادة نسخة إحتياطية"
+
+#: D:\progects\advanced notepad\source\gui\text_viewer.py:20
+msgid "Text copied to clipboard"
+msgstr "تم نسخ النص إلى الحافظة"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:10
+#: notepad\source\scripts\translator.py:14
+msgid "There is no text to translate."
+msgstr "لا يوجد نص لترجمته."
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:11
+msgid "translate text"
+msgstr "ترجمة النص"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:18
+msgid "How would you like to get the translated text?"
+msgstr "كيف تريد الحصول على النص المترجم؟"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:18
+msgid "Put the text in a new tab"
+msgstr "وضع النص في علامة تبويب جديدة"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:18
+msgid "Replace text in the current tab"
+msgstr "استبدال النص في علامة التبويب الحالية"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:19
+msgid "start translate"
+msgstr "بدء الترجمة"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:35
+msgid "The text is being translated, please wait."
+msgstr "يجري ترجمة النص, يرجى الإنتظار."
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:37
+#: notepad\source\gui\updater.py:24 notepad\source\gui\updater.py:92
+#: notepad\source\gui\updater.py:106 notepad\source\scripts\backup.py:80
+msgid "error"
+msgstr "خطأ"
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:37
+#: notepad\source\scripts\translator.py:53
+msgid ""
+"An error occurred during the translation process, please try again later."
+msgstr "حدث خطأ أثناء عملية الترجمة، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: D:\progects\advanced notepad\source\gui\translate_dialog.py:47
+msgid "The text has been translated successfully."
+msgstr "تمت ترجمة النص بنجاح."
+
+#: D:\progects\advanced notepad\source\gui\updater.py:19
+msgid "checking for updates."
+msgstr "يتم البحث عن تحديثات."
+
+#: D:\progects\advanced notepad\source\gui\updater.py:24
+msgid ""
+"unable to access the update service, there may be a temporary problem, or a "
+"problem with your connection, make sure you are connected to the Internet "
+"and then try again later."
+msgstr ""
+"لن نتمكن من الوصول إلى خدمة التحديث ، قد تكون هناك مشكلة مؤقتة ، أو مشكلة في "
+"الاتصال الخاص بك ، تأكد من أنك متصل بالإنترنت ثم حاول مرة أخرى لاحقًا."
+
+#: D:\progects\advanced notepad\source\gui\updater.py:28
+msgid "A new update has been found"
+msgstr "تم العثور على تحديث جديد"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:28
+msgid "There is a new update {name} version {ver} Do you want to update now?"
+msgstr "هناك تحديث جديد {name} الإصدار {ver} هل تريد التحديث الآن؟"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:32
+msgid "You have the latest version of advanced notepad"
+msgstr "لديك أحدث إصدار من المفكرة المتقدمة"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:32
+msgid "no updates found"
+msgstr "لم يتم العثور على تحديثات"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:34
+msgid ""
+"An error occurred while trying to connect to the update service, please try "
+"again later"
+msgstr ""
+"حدث خطأ أثناء محاولة الاتصال بخدمة التحديثات، يرجى المحاولة مرة أخرى لاحقًا"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:34
+msgid "connection error"
+msgstr "خطأ بالإتصال"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:39
+msgid "downloading updates"
+msgstr "يتم تحميل التحديثات"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:42
+msgid "download status"
+msgstr "حالة التحميل"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:45
+msgid "stop download"
+msgstr "إيقاف التحميل"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:92
+msgid "An error occurred during the update process, please try again later."
+msgstr "حدث خطأ أثناء عملية التحديث، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: D:\progects\advanced notepad\source\gui\updater.py:97
+msgid "downloading update {p}"
+msgstr "يتم تحميل التحديث {p}"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:100
+msgid ""
+"Update downloaded successfully, click OK to start the installation process."
+msgstr "تم تنزيل التحديث بنجاح ، انقر فوق \"موافق\" لبدء عملية التثبيت."
+
+#: D:\progects\advanced notepad\source\gui\updater.py:102
+msgid "installing update"
+msgstr "يتم تثبيت التحديث"
+
+#: D:\progects\advanced notepad\source\gui\updater.py:106
+msgid ""
+"An unexpected error occurred when trying to open the file for installation, "
+"try to download the update again, and if the problem persists, contact the "
+"developer to solve it"
+msgstr ""
+"حدث خطأ غير متوقع عند محاولة فتح الملف للتثبيت ، حاول تنزيل التحديث مرة "
+"أخرى ، وإذا استمرت المشكلة ، فاتصل بالمطور لحلها"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:45
+msgid "create list"
+msgstr "إنشاء قائمة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:49
+msgid "items list"
+msgstr "قائمة العناصر"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:51
+msgid "write the new item here"
+msgstr "اكتب العنصر الجديد هنا"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:53
+msgid "add"
+msgstr "إضافة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:54
+msgid "ordered list"
+msgstr "قائمة مرتبة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:55
+#: notepad\source\html_handler\html_handler.py:113
+#: notepad\source\html_handler\html_handler.py:139
+#: notepad\source\html_handler\html_handler.py:175
+msgid "create"
+msgstr "إنشاء"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:65
+msgid "You must add at least one item."
+msgstr "يجب عليك إضافة عنصر واحد على الأقل."
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:78
+#: notepad\source\html_handler\html_handler.py:96
+msgid "delete item"
+msgstr "حذف العنصر"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:79
+msgid "edit item"
+msgstr "تحرير العنصر"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:96
+msgid "Are you sure you want to remove {item} from the list?"
+msgstr "هل أنت متأكد بأنك تريد إزالة {item} من القائمة؟"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:108
+msgid "create paragraph"
+msgstr "إنشاء فقرة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:111
+msgid "paragraph text"
+msgstr "نص الفقرة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:122
+#: notepad\source\html_handler\html_handler.py:184
+msgid "You must write a text"
+msgstr "يجب عليك كتابة نص."
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:129
+msgid "create URL"
+msgstr "إنشاء رابط"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:132
+msgid "Choose the type of URL"
+msgstr "اختر نوع الرابط"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:132
+msgid "URL button"
+msgstr "زر رابط"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:132
+msgid "normal URL"
+msgstr "رابط عادي"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:132
+#: notepad\source\html_handler\html_handler.py:147
+msgid "image URL"
+msgstr "رابط صورة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:134
+#: notepad\source\html_handler\html_handler.py:149
+msgid "name"
+msgstr "الإسم"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:136
+msgid "URL"
+msgstr "الرابط"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:138
+msgid "the URL open in new tab"
+msgstr "الرابط يُفتح في علامة تبويب جديدة"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:157
+msgid "You must type the URL."
+msgstr "يجب عليك كتابة الرابط."
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:160
+msgid "This field is required."
+msgstr "هذا الحقل مطلوب"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:167
+msgid "create heading"
+msgstr "إنشاء رأس موضوع"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:170
+msgid "heading level"
+msgstr "مستوى رأس الموضوع"
+
+#: D:\progects\advanced notepad\source\html_handler\html_handler.py:172
+msgid "the heading text"
+msgstr "نص رأس الموضوع"
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:47
+msgid "select folder to save the new backup file"
+msgstr "حدد مجلدًا لحفظ ملف النسخة الاحتياطية الجديد"
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:65
+msgid "Backup created successfully, the backup  path: {p}"
+msgstr "تم إنشاء نسخة إحتياطية بنجاح، مسار النسخة الاحتياطية: {p}"
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:68
+msgid "choos a backup to restore"
+msgstr "إختر نسخة إحتياطية لإستعادتها."
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:73
+msgid ""
+"If you click Yes: the selected backup will be restored, and you cannot undo "
+"this action. Are you sure you want to restore the backup?"
+msgstr ""
+"إذا قمت بالنقر فوق \"نعم\": ستتم استعادة النسخة الاحتياطية المحددة ، ولا "
+"يمكنك التراجع عن هذا الإجراء. هل أنت متأكد أنك تريد استعادة النسخة "
+"الاحتياطية؟"
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:73
+msgid "warning"
+msgstr "تحذير"
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:77
+msgid ""
+"The backup has been successfully restored, click OK to restart the program."
+msgstr ""
+"تمت استعادة النسخة الاحتياطية بنجاح ، انقر فوق \"موافق\" لإعادة تشغيل "
+"البرنامج."
+
+#: D:\progects\advanced notepad\source\scripts\backup.py:80
+msgid "You have selected an invalid backup"
+msgstr "لقد اخترت نسخة احتياطية غير صالحة"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:35
+msgid "there is no text to get its info."
+msgstr "لا يوجد نص للحصول على معلوماته"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:45
+msgid "emails count: {c}."
+msgstr "عدد البريد الألكتروني: {c}"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:49
+msgid "links count: {c}."
+msgstr "عدد الروابط: {c}"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:52
+msgid ""
+"text info:\n"
+"Character count: {charCount}.\n"
+"words count: {wrdCount}.\n"
+"lines count: {lnsCount}\n"
+"Most frequent word: {frequent} Which was repeated {repeted} times.\n"
+"{urlsc}\n"
+"{emailsc}\n"
+" "
+msgstr ""
+"معلومات النص:\n"
+"عدد الأحرف: {charCount}.\n"
+"عدد الكلمات: {wrdCount}.\n"
+"عدد الأسطر: {lnsCount}\n"
+"الكلمة الأكثر تكرارا: {frequent} التي تكررت  {repeted} مِن المرات.\n"
+"{urlsc}\n"
+"{emailsc}\n"
+" "
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:86
+msgid "The time has been written successfully"
+msgstr "تم كتابة الوقت بنجاح"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:116
+msgid "new file ({num})"
+msgstr "ملف جديد ({num})"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:144
+msgid "Keep non existing file"
+msgstr "الإحتفاظ بملف غير موجود"
+
+#: D:\progects\advanced notepad\source\scripts\editor.py:144
+msgid ""
+"The file {f} doesn't exist anymore. do you want Keep this file in editor?"
+msgstr "الملف {f} لم يعد موجودًا. هل تريد الاحتفاظ بهذا الملف في المحرر؟"
+
+#: D:\progects\advanced notepad\source\scripts\translator.py:36
+msgid "The translation result is copied to the clipboard."
+msgstr "تم نسخ نتيجة الترجمة إلى الحافظة."
+
+#: D:\progects\advanced notepad\source\scripts\translator.py:64
+#, fuzzy
+#| msgid "translate from"
+msgid "translate: from {f} to {t}"
+msgstr "الترجمة مِن"
