@@ -25,12 +25,12 @@ init_config() #initializing the configuration of the program
 class notepad(wx.Frame): # the main class
 	def __init__(self, file=None):
 		g.appInfo = application.info()
-		wx.Frame.__init__(self, parent=None, title=g.appInfo.name)
+		wx.Frame.__init__(self, parent=None, title=g.appInfo.name, size=(900, 700))
 		g.UpdateTabs() # get the tabs from data and save it in to variable in the globals
 		p=wx.Panel(self)
 		self.Center()
 		self.html = html_handler
-		self.textField = editor.TextBox(p, -1)
+		self.textField = editor.TextBox(p, -1, size=(870, 640))
 		self.MenuBarSetup() #execute the function of Menu Bar creation
 		self.Bind(wx.EVT_CLOSE, self.OnExit)
 		for i in p.GetChildren():
